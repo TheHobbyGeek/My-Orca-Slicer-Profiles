@@ -15,7 +15,7 @@
         "1"
     ],
     "compatible_printers": [
-        "SV06 0.6 nozzle"
+        "MyKlipper 0.4 nozzle"
     ],
     "compatible_printers_condition": "",
     "compatible_prints": [],
@@ -151,7 +151,7 @@
         "nil"
     ],
     "filament_settings_id": [
-        "PLA @SV06 0.6 nozzle"
+        "Elegoo PLA+"
     ],
     "filament_shrink": [
         "100%"
@@ -204,7 +204,7 @@
     ],
     "inherits": "",
     "is_custom_defined": "0",
-    "name": "PLA @SV06 0.6 nozzle",
+    "name": "Elegoo PLA+",
     "nozzle_temperature": [
         "220"
     ],

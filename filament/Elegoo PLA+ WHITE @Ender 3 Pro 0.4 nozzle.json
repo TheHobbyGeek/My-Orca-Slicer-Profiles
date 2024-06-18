@@ -1,9 +1,12 @@
 {
+    "compatible_printers": [
+        "Ender 3 Pro 0.4 nozzle"
+    ],
     "default_filament_colour": [
-        "#000000"
+        "#FFFFFF"
     ],
     "filament_settings_id": [
-        "Elegoo PLA+ Black @SV06 0.2 nozzle"
+        "Elegoo PLA+ WHITE @Ender 3 Pro 0.4 nozzle"
     ],
     "from": "User",
     "hot_plate_temp": [
@@ -12,9 +15,9 @@
     "hot_plate_temp_initial_layer": [
         "70"
     ],
-    "inherits": "PLA @SV06 0.2 nozzle",
+    "inherits": "Elegoo PLA+",
     "is_custom_defined": "0",
-    "name": "Elegoo PLA+ Black @SV06 0.2 nozzle",
+    "name": "Elegoo PLA+ WHITE @Ender 3 Pro 0.4 nozzle",
     "nozzle_temperature": [
         "205"
     ],

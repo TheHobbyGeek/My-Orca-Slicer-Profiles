@@ -1,0 +1,12 @@
+{
+    "default_print_profile": "0.2mm Layer@Ender 3 Pro 0.4 nozzle",
+    "from": "User",
+    "inherits": "Ender 3 Pro",
+    "is_custom_defined": "0",
+    "name": "Ender 3 Pro 0.4 nozzle",
+    "nozzle_diameter": [
+        "0.4"
+    ],
+    "printer_settings_id": "Ender 3 Pro 0.4 nozzle",
+    "version": "2.1.0.0"
+}

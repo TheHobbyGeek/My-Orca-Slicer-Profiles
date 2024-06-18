@@ -17,9 +17,9 @@
     "cooling_tube_length": "5",
     "cooling_tube_retraction": "91.5",
     "default_filament_profile": [
-        "PLA @SV06 0.4 nozzle"
+       "Ender PLA"
     ],
-    "default_print_profile": "0.2mm Layer@SV06 0.4 nozzle",
+    "default_print_profile": "0.2mm Layer@Ender 3 Pro",
     "deretraction_speed": [
         "40"
     ],
@@ -131,7 +131,7 @@
     "min_layer_height": [
         "0.1"
     ],
-    "name": "SV06 0.4 nozzle",
+    "name": "Ender 3 Pro",
     "nozzle_diameter": [
         "0.4"
     ],
@@ -141,8 +141,8 @@
     "nozzle_volume": "0",
     "parking_pos_retraction": "92",
     "preferred_orientation": "0",
-    "print_host": "http://192.168.0.17",
-    "print_host_webui": "http://192.168.0.17",
+    "print_host": "http://192.168.0.224",
+    "print_host_webui": "http://192.168.0.224",
     "printable_area": [
         "0x0",
         "220x0",
@@ -150,12 +150,12 @@
         "0x220"
     ],
     "printable_height": "250",
-    "printer_model": "SV06",
+    "printer_model": "Ender 3 Pro",
     "printer_notes": "",
-    "printer_settings_id": "SV06 0.4 nozzle",
+    "printer_settings_id": "Ender 3 Pro",
     "printer_structure": "undefine",
     "printer_technology": "FFF",
-    "printer_variant": "0.2",
+    "printer_variant": "0.4",
     "printhost_apikey": "",
     "printhost_authorization_type": "key",
     "printhost_cafile": "",
