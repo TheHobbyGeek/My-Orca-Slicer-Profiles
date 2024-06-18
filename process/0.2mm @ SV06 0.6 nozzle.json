@@ -1,0 +1,12 @@
+{
+    "compatible_printers": [
+        "SV06 0.6 nozzle"
+    ],
+    "from": "User",
+    "inherits": "0.6 nozzle base",
+    "is_custom_defined": "0",
+    "name": "0.2mm @ SV06 0.6 nozzle",
+    "print_settings_id": "0.2mm @ SV06 0.6 nozzle",
+    "travel_jerk": "8",
+    "version": "2.1.0.0"
+}

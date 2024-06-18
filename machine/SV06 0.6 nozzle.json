@@ -1,0 +1,15 @@
+{
+    "default_filament_profile": [
+        "Elegoo PLA+ BLACK @SV06 0.6 nozzle"
+     ],
+     "default_print_profile": "0.2mm Layer@SV06 0.6 nozzle",
+    "from": "User",
+    "inherits": "SV06",
+    "is_custom_defined": "0",
+    "name": "SV06 0.6 nozzle",
+    "nozzle_diameter": [
+        "0.6"
+    ],
+    "printer_settings_id": "SV06 0.6 nozzle",
+    "version": "2.1.0.0"
+}

@@ -19,7 +19,7 @@
     "default_filament_profile": [
        "Ender PLA"
     ],
-    "default_print_profile": "0.2mm Layer@Ender 3 Pro",
+    "default_print_profile": "Ender 3 Pro",
     "deretraction_speed": [
         "40"
     ],
